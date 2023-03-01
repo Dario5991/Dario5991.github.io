@@ -17,24 +17,6 @@ align-items: center;
 height: 300px;
 }
 
-h1 {
-    font-family: 'Playfair Display', serif;
-    font-family: 'Tilt war', Arial, Helvetica, sans-serif;
-    color:rgb(11, 43, 102);
-    border: -2px solid rgb(68, 125, 209);
-    padding: -3px;
-    margin: -2px;
-}
-
-h2 {
-    font-family: 'Playfair Display', serif;
-    font-family: 'Tilt war', Arial, Helvetica, sans-serif;
-    color:rgb(7, 138, 105);
-    border: 2px solid rgb(227, 236, 238);
-    padding: 3px;
-    margin: 2px;
-}
-
 section#datos img{
     width: 10%;
 }
